@@ -4,4 +4,4 @@ This repository contains the DNS recognition program to be used during pentest s
 The intent is for educational purposes only, I am not responsible for the misuse of the tools.
 
 # usage:
-./rick_recon_dns.sh alvo.com
+./rick_recon_dns.sh host.com
